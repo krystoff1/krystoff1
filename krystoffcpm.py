@@ -1,6 +1,6 @@
 import requests
 
-__ENDPOINT_URL__: str = "https://kystoff1.squareweb.app/api"
+__ENDPOINT_URL__: str = "https://kryzstoff1.squareweb.app/api"
 
 class Tresehshs:
     def __init__(self, access_key) -> None:
