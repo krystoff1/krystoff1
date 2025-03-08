@@ -11,7 +11,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from kryzstoffcpm import krystoff1
+from kryzstoffcpm import Krystoff1
 
 __CHANNEL_USERNAME__ = "XenoMainChannel"
 __GROUP_USERNAME__   = "XenoMainChat"
